@@ -1,6 +1,6 @@
 
 import './index.css'
-import SimpleMenuList from './pages/SimpleMenuList.jsx'
+import SimpleMenuList from './components/SimpleMenuList.jsx'
 
 function App() {
   return (
